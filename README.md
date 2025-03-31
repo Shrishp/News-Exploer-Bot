@@ -15,7 +15,9 @@ Stay informed with the Telegram News Bot! 📰🤖 This bot fetches the latest n
 
 🤖 Easy to set up and use
 
+
 ⚙️ Setup and Installation
+
 
 📌 Prerequisites
 
@@ -26,23 +28,31 @@ Stay informed with the Telegram News Bot! 📰🤖 This bot fetches the latest n
 📰 A NewsAPI key from NewsAPI
 
 🚀 Installation Steps
+
 1.Clone the repository:
  git clone https://github.com/yourusername/telegram-news-bot.git
  cd telegram-news-bot
+
 2.Install dependencies:
  pip install -r requirements.txt
+
 3.Replace the placeholders in news_bot.py with your actual API keys:
  TELEGRAM_BOT_TOKEN = "your_telegram_bot_token"
  NEWS_API_KEY = "your_news_api_key"
+
 4.Run the bot locally:
  python news_bot.py
 
 🎯 Usage
 
 ▶️ Start the bot: /start
+
 📢 Get top news: /news
+
 🎯 Get category-specific news: /news technology, /news sports, /news business, etc.
+
 📜 Read the full news directly within Telegram
 
 🤝 Contributing
+
 We welcome contributions! Feel free to submit pull requests or raise issues.  
