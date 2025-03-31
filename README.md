@@ -58,7 +58,8 @@ Stay informed with the Telegram News Bot! 📰🤖 This bot fetches the latest n
 🎯 Get category-specific news: /news technology, /news sports, /news business, etc.
 
 📜 Read the full news directly within Telegram
+<img width="902" alt="Screenshot 2025-03-31 at 10 16 36 AM" src="https://github.com/user-attachments/assets/aa654b9f-220b-438a-a428-e154e4650056" />
 
-🤝 Contributing
+<img width="993" alt="Screenshot 2025-03-31 at 10 17 01 AM" src="https://github.com/user-attachments/assets/4a9a99e0-61d1-4ecc-a2f2-b242ef15dd2f" />
 
-We welcome contributions! Feel free to submit pull requests or raise issues.  
+
