@@ -4,17 +4,25 @@
 Stay informed with the Telegram News Bot! 📰🤖 This bot fetches the latest news headlines from NewsAPI and delivers them straight to your Telegram chat. Whether you're interested in technology, sports, business, or entertainment, this bot ensures you never miss out on trending stories. With just a simple command, you can access the latest updates and even read full articles without leaving Telegram! 🚀✨
 
 ✨ Features
+
 🔥 Get the latest top news headlines instantly
+
 🏆 Request news by category (e.g., technology, sports, business, entertainment, etc.)
+
 📌 Displays the top 5 headlines with a brief summary
+
 📜 Read full news articles directly within Telegram
+
 🤖 Easy to set up and use
 
 ⚙️ Setup and Installation
 
 📌 Prerequisites
+
 🐍 Python 3.9+
+
 🤖 A Telegram bot token from BotFather
+
 📰 A NewsAPI key from NewsAPI
 
 🚀 Installation Steps
